@@ -211,7 +211,7 @@ focus_follows_mouse no
 default_border none
 default_floating_border none
 font UbuntuMonoNerdFont 12.5
-seat "seat0"  hide_cursor 1000
+seat "*"  hide_cursor 1000
 
 
 # Keybinds
